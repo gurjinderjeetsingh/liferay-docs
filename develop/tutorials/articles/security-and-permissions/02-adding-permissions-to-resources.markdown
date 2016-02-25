@@ -107,11 +107,11 @@ following mapping of resources to actions:
         <portlet-resource>
             <portlet-name>guestbook</portlet-name>
             <permissions>
-                <supports>
+                <supportss>
                     <action-key>ADD_TO_PAGE</action-key>
                     <action-key>CONFIGURATION</action-key>
                     <action-key>VIEW</action-key>
-                </supports>
+                </supportsss>
                 <site-member-defaults>
                     <action-key>VIEW</action-key>
                 </site-member-defaults>
